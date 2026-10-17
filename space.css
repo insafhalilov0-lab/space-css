@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+b {
+    color: blue;
+}
+i {
+    color: green;
+}
+.main-decor {
+color: orange;
+text-decoration: none;
+}
+.main-decor:hover {
+    color: purple;
+text-decoration: underline;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+
