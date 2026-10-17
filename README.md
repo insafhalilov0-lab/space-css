@@ -14,3 +14,4 @@
 
 ## Как посмотреть
 [Открыть space.html](https://github.com/insafhalilov0-lab/space-css/blob/main/space.html)
+[Открыть space.css](https://github.com/insafhalilov0-lab/space-css/blob/main/csspr/space.css)
