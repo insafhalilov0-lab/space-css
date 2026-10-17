@@ -13,4 +13,4 @@
 - Делать эффект при наведении (`:hover`)
 
 ## Как посмотреть
-[Открыть index.html](https://github.com/insafhalilov0-lab/space-css/blob/main/index.html)
+[Открыть space.html](https://github.com/insafhalilov0-lab/space-css/blob/main/space.html)
